@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>反内卷 on ~/阿甲</title>
+    <link>http://82.157.70.46/tags/%E5%8F%8D%E5%86%85%E5%8D%B7/</link>
+    <description>Recent content in 反内卷 on ~/阿甲</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Jul 2023 17:39:10 +0800</lastBuildDate><atom:link href="http://82.157.70.46/tags/%E5%8F%8D%E5%86%85%E5%8D%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何应对内卷</title>
+      <link>http://82.157.70.46/posts/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%86%85%E5%8D%B7/</link>
+      <pubDate>Sat, 29 Jul 2023 17:39:10 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%86%85%E5%8D%B7/</guid>
+      <description>内卷之下，深耕是最好的出路。</description>
+    </item>
+    
+  </channel>
+</rss>

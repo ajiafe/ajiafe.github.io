@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ~/阿甲</title>
+    <link>http://82.157.70.46/posts/</link>
+    <description>Recent content in Posts on ~/阿甲</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Jul 2023 17:39:10 +0800</lastBuildDate><atom:link href="http://82.157.70.46/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何应对内卷</title>
+      <link>http://82.157.70.46/posts/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%86%85%E5%8D%B7/</link>
+      <pubDate>Sat, 29 Jul 2023 17:39:10 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%86%85%E5%8D%B7/</guid>
+      <description>内卷之下，深耕是最好的出路。</description>
+    </item>
+    
+    <item>
+      <title>如何搭建个人服务器系列001:准备</title>
+      <link>http://82.157.70.46/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E5%88%97001%E5%87%86%E5%A4%87/</link>
+      <pubDate>Fri, 28 Jul 2023 17:05:52 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%B3%BB%E5%88%97001%E5%87%86%E5%A4%87/</guid>
+      <description>搭建个人服务器系列文章第一篇：前期准备</description>
+    </item>
+    
+    <item>
+      <title>年龄是被时间打上的标签</title>
+      <link>http://82.157.70.46/posts/%E5%B9%B4%E9%BE%84%E6%98%AF%E8%A2%AB%E6%97%B6%E9%97%B4%E6%89%93%E4%B8%8A%E7%9A%84%E6%A0%87%E7%AD%BE/</link>
+      <pubDate>Tue, 25 Jul 2023 17:48:21 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/%E5%B9%B4%E9%BE%84%E6%98%AF%E8%A2%AB%E6%97%B6%E9%97%B4%E6%89%93%E4%B8%8A%E7%9A%84%E6%A0%87%E7%AD%BE/</guid>
+      <description>年龄可以变老，但是心态要永远年轻</description>
+    </item>
+    
+    <item>
+      <title>Hugo的congo主题配置</title>
+      <link>http://82.157.70.46/posts/hugo%E7%9A%84congo%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</link>
+      <pubDate>Tue, 11 Jul 2023 15:44:23 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/hugo%E7%9A%84congo%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/</guid>
+      <description>Hugo的congo主题配置教程</description>
+    </item>
+    
+    <item>
+      <title>Mac下使用hugo搭建网站并部署</title>
+      <link>http://82.157.70.46/posts/mac%E4%B8%8B%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Fri, 07 Jul 2023 16:25:09 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/mac%E4%B8%8B%E4%BD%BF%E7%94%A8hugo%E6%90%AD%E5%BB%BA%E7%BD%91%E7%AB%99/</guid>
+      <description>详情请看文章</description>
+    </item>
+    
+    <item>
+      <title>关于这个网站</title>
+      <link>http://82.157.70.46/posts/about/</link>
+      <pubDate>Thu, 06 Jul 2023 15:56:29 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/about/</guid>
+      <description>为什么会有这个网站</description>
+    </item>
+    
+  </channel>
+</rss>

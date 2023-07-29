@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>计算器</title>
+    <style>
+      html,
+      body {
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        font-size: 20px;
+      }
+      .continar {
+        display: flex;
+        justify-content: center;
+        width: 400px;
+        margin-top: 200px;
+      }
+      input {
+        width: 80px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="continar">
+      <div>
+        供货价：<input
+          id="priceIp"
+          type="number"
+          placeholder="请输入供货价"
+          change="changePrice"
+        />
+        <div>售价： <span id="salePrice"></span></div>
+      </div>
+    </div>
+    <script>
+      var salePriceEle = document.querySelector("#salePrice");
+      var priceIp = document.querySelector("#priceIp");
+      salePriceEle.innerText = 0;
+      priceIp.addEventListener("change", (e) => {
+        // 输入供货价，显示售价，公示是供货价低于15元的（供货价+6元）/0.8；大于15元的（供货价+6）/0.72
+	// 20230515第二版供货价+7.5元  第三版 改为+7
+        var inputNum = Number(e.target.value);
+        if (inputNum <= 0) {
+          alert("供货价需大于0");
+          salePriceEle.innerText = 0;
+          return;
+        }
+        if (isNaN(inputNum)) {
+          alert("请输入合法数字");
+          salePriceEle.innerText = 0;
+          return;
+        }
+        if (inputNum <= 15) {
+          salePriceEle.innerText = (((inputNum + 7) * 10) / 8).toFixed(2);
+        } else {
+          // 0.72 = 72 /100
+          salePriceEle.innerText = (((inputNum + 7) * 100) / 72).toFixed(2);
+        }
+      });
+    </script>
+  </body>
+</html>
+
