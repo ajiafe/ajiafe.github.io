@@ -6,22 +6,40 @@
     <description>Recent content in Tags on ~/阿甲</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 29 Jul 2023 17:39:10 +0800</lastBuildDate><atom:link href="http://82.157.70.46/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 12:07:21 +0800</lastBuildDate><atom:link href="http://82.157.70.46/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Centos</title>
+      <link>http://82.157.70.46/tags/centos/</link>
+      <pubDate>Tue, 01 Aug 2023 12:07:21 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/tags/centos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://82.157.70.46/tags/docker/</link>
+      <pubDate>Tue, 01 Aug 2023 12:07:21 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker-compose</title>
+      <link>http://82.157.70.46/tags/docker-compose/</link>
+      <pubDate>Tue, 01 Aug 2023 12:07:21 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>反内卷</title>
       <link>http://82.157.70.46/tags/%E5%8F%8D%E5%86%85%E5%8D%B7/</link>
       <pubDate>Sat, 29 Jul 2023 17:39:10 +0800</pubDate>
       
       <guid>http://82.157.70.46/tags/%E5%8F%8D%E5%86%85%E5%8D%B7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CentOS</title>
-      <link>http://82.157.70.46/tags/centos/</link>
-      <pubDate>Fri, 28 Jul 2023 17:05:52 +0800</pubDate>
-      
-      <guid>http://82.157.70.46/tags/centos/</guid>
       <description></description>
     </item>
     

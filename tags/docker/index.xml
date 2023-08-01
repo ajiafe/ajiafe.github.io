@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on ~/阿甲</title>
+    <link>http://82.157.70.46/tags/docker/</link>
+    <description>Recent content in Docker on ~/阿甲</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 01 Aug 2023 12:07:21 +0800</lastBuildDate><atom:link href="http://82.157.70.46/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux系统CentOS7.9安装docker-compose</title>
+      <link>http://82.157.70.46/posts/linux%E7%B3%BB%E7%BB%9Fcentos7.9%E5%AE%89%E8%A3%85docker-compose/</link>
+      <pubDate>Tue, 01 Aug 2023 12:07:21 +0800</pubDate>
+      
+      <guid>http://82.157.70.46/posts/linux%E7%B3%BB%E7%BB%9Fcentos7.9%E5%AE%89%E8%A3%85docker-compose/</guid>
+      <description>CentOS7.9安装docker-compose</description>
+    </item>
+    
+  </channel>
+</rss>
